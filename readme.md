@@ -40,8 +40,6 @@ pip install -r requirements.txt
 Ritesh Patil
 
 
-
-## Demo![![![alt text](image-2.png)](image-1.png)](image.png)
 Here is a GIF showing how the app works:
 
 ![TradeWise App Demo](./demo.gif)
